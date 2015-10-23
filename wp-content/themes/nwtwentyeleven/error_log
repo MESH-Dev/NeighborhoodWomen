@@ -1,0 +1,8 @@
+[19-Apr-2015 01:05:24 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/neighbor/public_html/wp-content/themes/nwtwentyeleven/index.php on line 15
+[20-Apr-2015 18:58:17 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/neighbor/public_html/wp-content/themes/nwtwentyeleven/index.php on line 15
+[29-Apr-2015 02:45:40 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/neighbor/public_html/wp-content/themes/nwtwentyeleven/index.php on line 15
+[10-May-2015 20:34:16 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/neighbor/public_html/wp-content/themes/nwtwentyeleven/index.php on line 15
+[19-Jul-2015 10:00:50 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/neighbor/public_html/wp-content/themes/nwtwentyeleven/404.php on line 10
+[13-Sep-2015 03:06:04 America/New_York] PHP Fatal error:  Call to undefined function post_password_required() in /home/neighbor/public_html/wp-content/themes/nwtwentyeleven/comments.php on line 16
+[14-Sep-2015 01:47:48 America/New_York] PHP Fatal error:  Call to undefined function post_password_required() in /home/neighbor/public_html/wp-content/themes/nwtwentyeleven/comments.php on line 16
+[05-Oct-2015 17:45:34 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/neighbor/public_html/wp-content/themes/nwtwentyeleven/404.php on line 10
